@@ -9,3 +9,7 @@ export function goodbye(name) {
 export function generateRandomNumber() {
   return Math.random();
 }
+
+export function generateWord() {
+  return "word";
+}
