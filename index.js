@@ -5,3 +5,7 @@ export function hello(name) {
 export function goodbye(name) {
   return `Goodbye, ${name}!!!`;
 }
+
+export function generateRandomNumber() {
+  return Math.random();
+}
